@@ -51,10 +51,6 @@ void f_flag(char* optarg, int e_count, char* ef_flags) {
   - Description: Developed a file compression tool using C, implementing a lossless compression algorithm. Experimented with different data compression techniques and optimized the algorithm for performance.
   - Technologies: C
 
-- **Command-Line Calculator**
-  - Description: Built a command-line calculator application in C, supporting basic arithmetic operations and scientific calculations. Implemented input validation and error handling.
-  - Technologies: C
-
 ## Languages
 - Native: Russian
 - Fluent: English
