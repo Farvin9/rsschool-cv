@@ -1,7 +1,7 @@
 # Frida Fadeeva
 
 ## Contact Information
-- Email: sova.riddle@gmail.com
+- Email: frida.fadeeva@gmail.com
 
 ## Skills
 - Programming Languages: C
