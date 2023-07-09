@@ -1,3 +1,4 @@
 # rsschool-cv
 
-[Markdown CV](https://farvin9.github.io/rsschool-cv/cv)
+sschool-cv-html
+[GITHUB-USERNAME](https://farvin9.github.io/rsschool-cv/)
